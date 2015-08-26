@@ -41,3 +41,9 @@ Then add the tree structure in your code by using a html list with `class="tree"
 		</li>
 </ol>
 ```
+
+## Roadmap
+
+- Also make it suport `<ul>` lists
+- CSS3 Animations
+- Ready to use styles and themes
